@@ -1,1 +1,1 @@
-# PythonDataIES midterm exam solution - Jan Stuchlík
+PythonDataIES midterm exam solution - Jan Stuchlík
